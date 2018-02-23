@@ -1,0 +1,19 @@
+{
+  "name": "demarco40.github.io",
+  "version": "1.0.0",
+  "description": "Personal Site to Show off Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demarco40/demarco40.github.io.git"
+  },
+  "author": "Jordan Rizzieri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demarco40/demarco40.github.io/issues"
+  },
+  "homepage": "https://github.com/demarco40/demarco40.github.io#readme"
+}
